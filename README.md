@@ -15,4 +15,4 @@
 5.BMI vs. charges
 ![image](https://user-images.githubusercontent.com/72297106/123540606-877d5380-d75d-11eb-8727-a4327288dd53.png)
 
-6.Imported jobib to make use of model directly at instant instead of retraining
+6.Imported joblib to make use of model directly at instant instead of retraining
